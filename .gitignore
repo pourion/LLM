@@ -1,0 +1,10 @@
+.env
+__pycache__
+.gitconfig
+.ssh
+.vscode-server
+.gnupg
+.dotnet
+.cache
+.vscode
+.hypothesis
