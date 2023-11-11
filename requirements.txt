@@ -4,6 +4,7 @@ tiktoken
 datasets
 transformers
 textwrap3
+evaluate
 
 hydra-core==1.3.2
 hydra_colorlog
