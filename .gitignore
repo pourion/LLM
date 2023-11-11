@@ -11,4 +11,6 @@ __pycache__
 .config
 test.png
 
+results/*
 xgen*
+.python_history
